@@ -44,4 +44,4 @@ function draw() {
 
 ### Image:
 
-![Imgur]([Imgur](https://i.imgur.com/dpgmvqX.png) "Pattern 1")
+![Imgur](https://i.imgur.com/dpgmvqX.png "Pattern 1")
